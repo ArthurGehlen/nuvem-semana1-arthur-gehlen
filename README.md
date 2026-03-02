@@ -7,3 +7,12 @@
 - Ativei GitHub Pages (main / root)
 ## Dificuldades
 - Nenhuma
+
+# Semana 2 - GET + POST
+## O que foi feito
+- Testamos o método GET em uma API de clima sem chave e também o método POST simulado no JSONPlaceholder.
+- Não tive erros :)
+
+<img src="post.png" alt="" />
+
+<img src="get.png" alt="" />
